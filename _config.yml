@@ -220,12 +220,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  # portfolio:
-  #   output: false
-  #   permalink: /:collection/:path/
-  # talks:
-  #   output: false
-  #   permalink: /:collection/:path/
+  portfolio:
+    output: false
+    permalink: /:collection/:path/
+  talks:
+    output: false
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -330,6 +330,9 @@ whitelist:
 category_archive:
   type: liquid
   path: /categories/sitemap
+tag_archive:
+  type: liquid
+  path: /tags/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
