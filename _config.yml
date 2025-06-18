@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-AU"
 site_theme               : "default"
-title                    : "Michal Novomestsky"
+title                    : "紙上談兵 - In Theory"
 title_separator          : "-"
 name                     : &name "Michal Novomestsky"
 description              : #&description ""
@@ -23,7 +23,7 @@ repository               : "Michal-Novomestsky/Michal-Novomestsky.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Michal Novomestsky"
+  name             : "Michal Novomestský"
   pronouns         : 
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Melbourne, AU"
