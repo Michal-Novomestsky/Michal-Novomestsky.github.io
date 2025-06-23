@@ -33,7 +33,7 @@ redirect_from:
 ### Research Intern
 *University of Melbourne (Nov 2022 - Mar 2025)*
 * Conducted research on the behaviour of heat fluxes in tropical cyclones – a poorly understood, data and modelling-heavy field.
-* Submitted paper to Geophysical Research Letters (Q1 Journal). More info [here](/publication/2025_heat_fluxes).
+* Published in Geophysical Research Letters (Q1 Journal). More info [here](/publication/2025_heat_fluxes).
 * Was promoted to lead author within just eight months of starting out as a research assistant.
 * Experience with working with gigabytes of noisy data.
 * Made data analysis up to 48 times faster by introducing Python multiprocessing.
