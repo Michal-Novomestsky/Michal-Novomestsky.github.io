@@ -25,7 +25,7 @@ redirect_from:
 
 ### Google Summer of Code Contributor
 *NumFOCUS, PyMC (May 2025 - Sep 2025)*
-* Implementing Integrated Nested Laplace Approximations (INLA) into the PyMC library (Statistical ML). More info [here](https://summerofcode.withgoogle.com/programs/2025/projects/Djw07Zv0).
+* Implementing Integrated Nested Laplace Approximations (INLA) into the PyMC library (Statistical ML). More info [here](https://summerofcode.withgoogle.com/programs/2025/projects/Djw07Zv0) and [here](https://www.pymc.io/blog/blog_gsoc_2025.html).
 * Developing efficient, maintainable Python code for an open-source repository.
 * Working with probabilistic programming (PyMC) and an autodifferentiable backend (PyTensor).
 * Supervised by [Rob Zinkov (University of Oxford)](https://www.zinkov.com/about/), [Theo Rashid (Amazon)](https://theorashid.github.io/cv/) and Colt Allen (PyMC Labs).
