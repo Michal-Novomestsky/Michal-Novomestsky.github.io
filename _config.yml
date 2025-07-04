@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-AU"
 site_theme               : "default"
-title                    : "紙上談兵 - In Theory"
+title                    : "In Theory"
 title_separator          : "-"
 name                     : &name "Michal Novomestsky"
 description              : #&description ""
@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=p9zCczEAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/0009-0000-3608-446X"
   semantic         : # URL

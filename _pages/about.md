@@ -7,6 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+Hello there!
+
+I am a 4th year undergraduate student at Monash University in Australia, studying Aerospace Engineering (Honours). Although I come from a physics/engineering background in fluids, I have since shifted toward ML/AI as I have found some of the research directions in this space very exciting. My research interests can be summed up as “how can we embed priors/known information into AI/ML models?” and “how can we get them to reason and provide guarantees about their output?”.
+
+I'm delighted you've taken the time to visit my profile, feel free to have a look around!
+
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
