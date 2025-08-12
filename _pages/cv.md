@@ -10,6 +10,9 @@ redirect_from:
 {% include base_path %}
 
 # Experience
+### Applied AI Scientist
+*Chronosphere (Aug 2025 - Present)*
+
 ### ML/AI Research Intern
 *Bureau of Meteorology (Dec 2024 - Present)*
 * Investigating the feasibility of using empirical normal modes as a significantly more parameter efficient and interpretable means of forecasting with ML/AI.
@@ -17,7 +20,7 @@ redirect_from:
 * Supervised by Gilbert Brunet (former Chief Scientist at BoM), Catherine de Burgh-Day and Craig Bishop.
 * Aiming to turn results into a paper over 2025.
 
-### Member of ML/AI Research Group
+### Member of AI Research Group
 *Monash University (Mar 2024 - Present)*
 * Member of [A/Prof. Mehrtash Harandi's](https://sites.google.com/site/mehrtashharandi/) group. Informal member while I complete my undergraduate studies.
 * Interests include embedding prior knowledge into models (Bayesian ML, PINNs, reasoning LLMs, etc.), neurosymbolic AI and interpretability (SLT, GDL, etc.).
