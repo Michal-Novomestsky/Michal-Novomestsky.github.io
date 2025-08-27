@@ -11,7 +11,7 @@ Hello there!
 
 I am a 4th year undergraduate student at Monash University in Australia, studying Aerospace Engineering (Honours). Although I come from a physics/engineering background in fluids, I have since shifted toward ML/AI as I have found some of the research directions in this space very exciting. My research interests can be summed up as “how can we embed priors/known information into AI/ML models?” and “how can we get them to reason and provide guarantees about their output?”.
 
-I'm currently an applied AI scientist at [Chronosphere](https://chronosphere.io/). I am also wrapping up my Google Summer of Code project, focusing on Bayesian ML. Previously, I have worked as a research intern at the Bureau of Meteorology focusing on AI in weather forecasting, as well as at the University of Melbourne where I published a paper under Joey Voermans and Alexander Babanin in climate science.
+I'm currently an AI researcher at [Chronosphere](https://chronosphere.io/). I am also wrapping up my Google Summer of Code project, focusing on Bayesian ML. Previously, I have worked as a research intern at the Bureau of Meteorology focusing on AI in weather forecasting, as well as at the University of Melbourne where I published a paper under Joey Voermans and Alexander Babanin in climate science.
 
 I'm delighted you've taken the time to visit my profile, feel free to have a look around!
 

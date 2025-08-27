@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Experience
-### Applied AI Scientist
+### AI Researcher
 *Chronosphere (Aug 2025 - Present)*
 
 ### ML/AI Research Intern
