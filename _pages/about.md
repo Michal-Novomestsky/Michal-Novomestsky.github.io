@@ -9,7 +9,7 @@ redirect_from:
 
 Hello there!
 
-I'm Michal, a 4th year undergraduate student at Monash University in Australia, studying Aerospace Engineering (Honours). Although I come from a physics/engineering background in fluids, I have since shifted toward ML/AI as I have found some of the research directions in this space very exciting. My research interests can be summed up as “how can we embed priors/known information into AI/ML models?” and “how can we get them to reason and provide guarantees about their output?”.
+I'm Michal, a penultimate year undergraduate student at Monash University in Australia, studying Aerospace Engineering (Honours). Although I come from a physics/engineering background in fluids, I have since shifted toward ML/AI as I have found some of the research directions in this space very exciting. My research interests can be summed up as “how can we embed priors/known information into AI/ML models?” and “how can we get them to reason and provide guarantees about their output?”.
 
 I'm currently an AI researcher at [Chronosphere](https://chronosphere.io/). Previously, I have worked as a research intern at the Bureau of Meteorology focusing on AI in weather forecasting, as well as a Google Summer of Code contributor in Bayesian ML under Rob Zinkov, Theo Rashid and Colt Allen. Prior to that, I was an intern at the University of Melbourne where I published a paper under Joey Voermans and Alexander Babanin in climate science.
 
