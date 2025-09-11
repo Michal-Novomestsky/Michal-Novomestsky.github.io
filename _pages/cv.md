@@ -22,12 +22,12 @@ redirect_from:
 ### Member of AI Research Group
 *Monash University (Mar 2024 - Present)*
 * Member of [A/Prof. Mehrtash Harandi's](https://sites.google.com/site/mehrtashharandi/) group. Informal member while I complete my undergraduate studies.
-* Interests include probabalistic methods (Bayesian ML, energy-based models, etc.), interpretability (Singular learning theory, etc.), and more generally, how to embed prior knowledge into models (PINNs, reasoning LLMs, geometric deep learning etc.).
+* Interests include probabalistic methods (Bayesian ML, energy-based models, etc.), interpretability (Singular learning theory, etc.), and more generally, how to embed prior knowledge into models (PINNs, reasoning LLMs, geometric deep learning, etc.).
 
 ### Google Summer of Code Contributor
 *NumFOCUS, PyMC (May 2025 - Sep 2025)*
-* Worked on implementation for Integrated Nested Laplace Approximations (INLA) for the PyMC library (Bayesian ML). More info [here](https://summerofcode.withgoogle.com/programs/2025/projects/Djw07Zv0) and [here](https://www.pymc.io/blog/blog_gsoc_2025.html).
-* Supervised by [Rob Zinkov (University of Oxford)](https://www.zinkov.com/about/), [Theo Rashid (Amazon)](https://theorashid.github.io/cv/) and [Colt Allen](https://www.linkedin.com/in/coltallen-datascientist/) (PyMC Labs).
+* Contributed to the implementation of Integrated Nested Laplace Approximations (INLA) for the PyMC library (Bayesian ML). More info [here](https://summerofcode.withgoogle.com/programs/2025/projects/Djw07Zv0) and [here](https://www.pymc.io/blog/blog_gsoc_2025.html).
+* Supervised by [Rob Zinkov (University of Oxford)](https://www.zinkov.com/about/), [Theo Rashid (Amazon)](https://theorashid.github.io/cv/) and [Colt Allen (PyMC Labs)](https://www.linkedin.com/in/coltallen-datascientist/).
 
 ### Research Intern
 *University of Melbourne (Nov 2022 - Mar 2025)*
@@ -42,7 +42,7 @@ redirect_from:
 * Vice lead of the Dynamics section during the 2023-2024 management cycle.
   * Oversaw and managed section R&D projects.
   * Reported to CTO at technical meetings.
-* Developed and ran pipelines on the MonARCH cluster (slurm).
+* Developed pipelines on the MonARCH cluster.
 * 2nd largest contributor to the GitLab by Git contributions as of writing.
 
 # Education
