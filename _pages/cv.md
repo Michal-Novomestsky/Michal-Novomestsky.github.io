@@ -48,7 +48,7 @@ redirect_from:
 # Education
 ### BEng (Hons) Aerospace Engineering, Minoring in Artificial Intelligence
 *Monash University (Feb 2022 - Nov 2026)*
-* WAM 81.5 (High Distinction)
+* WAM 82/100 (High Distinction)
 * Selected cohort rankings:
   * 3rd of ~200 in ENG2005 Advanced Engineering Mathematics.
   * 8th of 197 in ECE4179 Neural Networks and Deep Learning
