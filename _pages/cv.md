@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Experience
-### AI Researcher
+### Applied AI Researcher
 *Chronosphere (Aug 2025 - Present)*
 
 ### ML/AI Research Intern
@@ -18,11 +18,6 @@ redirect_from:
 * Investigated the feasibility of using empirical normal modes as a significantly more parameter efficient and interpretable means of forecasting with ML/AI.
 * Developed scalable pipelines for training and evaluation on the NCI Gadi supercomputer.
 * Supervised by Gilbert Brunet (former Chief Scientist at BoM), Catherine de Burgh-Day and Craig Bishop.
-
-### Member of AI Research Group
-*Monash University (Mar 2024 - Present)*
-* Member of [A/Prof. Mehrtash Harandi's](https://sites.google.com/site/mehrtashharandi/) group. Informal member while I complete my undergraduate studies.
-* Interests include probabalistic methods (Bayesian ML, energy-based models, etc.), interpretability (Singular learning theory, etc.), and more generally, how to embed prior knowledge into models (PINNs, reasoning LLMs, geometric deep learning, etc.).
 
 ### Google Summer of Code Contributor
 *NumFOCUS, PyMC (May 2025 - Sep 2025)*
@@ -49,6 +44,7 @@ redirect_from:
 ### BEng (Hons) Aerospace Engineering, Minoring in Artificial Intelligence
 *Monash University (Feb 2022 - Nov 2026)*
 * WAM 82/100 (High Distinction)
+* Honours Thesis under A/Prof. Mehrtash Harandi.
 * Selected cohort rankings:
   * 3rd of ~200 in ENG2005 Advanced Engineering Mathematics.
   * 8th of 197 in ECE4179 Neural Networks and Deep Learning
