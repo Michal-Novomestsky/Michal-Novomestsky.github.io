@@ -38,7 +38,7 @@ redirect_from:
 # Research Experience
 ### ML/AI Research Intern
 *Bureau of Meteorology (Dec 2024 - Aug 2025)*
-* Investigated a novel approach which blends the intrpretability of physics-informed methods with the performance of modern transformer pretraining techniques.
+* Investigated a novel approach which blends the interpretability of physics-informed methods with the performance of modern transformer pretraining techniques.
 * Developed an architecture which significantly reduced the training and inference cost of gridded data inputs.
 * Built and ran training and evaluation pipelines on the Gadi cluster at scale.
 
