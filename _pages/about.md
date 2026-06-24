@@ -11,9 +11,9 @@ Hello there!
 
 I'm Michal, a BEng student at Monash University, studying Aerospace Engineering. My Honours thesis is being supervised by A/Prof. [Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/) and [Riccardo Ali](https://rick-ali.github.io/).
 
-Though my research interests are fairly broad, I am currently most interested the development of circuits and generalisation in neural networks. Additionally, coming from an engineering background in fluids, I am particularly interested in whether such structures can be physically meaningful when applied to physics and mathematics.
+Though my research interests are fairly broad, I am currently most interested in the development of circuits and generalisation in neural networks. Additionally, coming from an engineering background in fluids, I am particularly interested in whether such structures can be physically meaningful when applied to physics and mathematics.
 
-I'm currently also an AI researcher at [Chronosphere](https://chronosphere.io/). Previously, I have worked as a research intern at the Bureau of Meteorology focusing on AI in weather forecasting, as well as a Google Summer of Code contributor in Bayesian ML under Rob Zinkov, Theo Rashid and Colt Allen. Prior to that, I was an intern at the University of Melbourne where I published a paper under Joey Voermans and Alexander Babanin in climate science.
+I'm currently also an AI engineer at Palo Alto Networks, having worked the same role at Chronosphere (acquired by Palo in early 2026). Previously, I have worked as a research intern at the Bureau of Meteorology focusing on AI for data-driven weather forecasting, as well as a Google Summer of Code contributor in Bayesian ML under Rob Zinkov, Theo Rashid and Colt Allen. Prior to that, I was an intern at the University of Melbourne where I published a paper under Joey Voermans and Alexander Babanin in climate science.
 
 I'm delighted you've taken the time to visit my profile, feel free to have a look around!
 
