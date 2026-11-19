@@ -9,7 +9,7 @@ redirect_from:
 
 Hello there!
 
-I'm Michal, a BEng student at Monash University, studying Aerospace Engineering with a minor in Artifical Intelligence. I'm currently undertaking my Honours thesis, which is being supervised by A/Prof. [Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/) and [Riccardo Ali](https://rick-ali.github.io/).
+I'm Michal, a BEng student at Monash University, studying Aerospace Engineering with a minor in Artifical Intelligence. I completed my [Honours thesis](/publication/2026/thesis) under A/Prof. [Mehrtash Harandi](https://sites.google.com/site/mehrtashharandi/) and [Riccardo Ali](https://rick-ali.github.io/).
 
 Though my research interests are fairly broad, I'm currently most interested in the development of circuits and generalisation in neural networks. Additionally, coming from an engineering background in fluids, I am particularly interested in whether such structures can be physically meaningful when applied to physics and mathematics.
 
