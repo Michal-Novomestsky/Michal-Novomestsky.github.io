@@ -2,7 +2,7 @@
 title: "In-Situ Measurements of Sensible Heat Fluxes in a Tropical Cyclone"
 collection: publications
 category: manuscripts
-permalink: /publication/2025_heat_fluxes
+permalink: /publication/2025/heat_fluxes
 excerpt: 'We present rare measurements of heat fluxes under cyclone conditions.'
 date: 2025-07-01
 venue: 'Geophysical Research Letters'

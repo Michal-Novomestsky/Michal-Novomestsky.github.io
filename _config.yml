@@ -80,6 +80,8 @@ author:
 publication_category:
   books:
     title: 'Books'
+  honours_thesis:
+    title: 'Honours Thesis'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
